@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote=self.webpackChunknote||[]).push([[9777],{118:e=>{e.exports=JSON.parse('{"tag":{"label":"\u4ecb\u7ecd","permalink":"/tags/\u4ecb\u7ecd","allTagsPath":"/tags","count":1,"items":[{"id":"intro","title":"Hello","description":"this is a maskrcnn description","permalink":"/intro"}],"unlisted":false}}')}}]);
